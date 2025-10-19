@@ -1,13 +1,13 @@
 Bonjour, je suis Ilyas Sabir ! 👋
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://votre-portfolio-link.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-915EFF%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio"/>
+
+
 </a>
-<a href="mailto:ilyasff00@gmail.com">
+<a href="mailto:ilyassabir03@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/votre-linkedin-id" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/ilyassabir/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 </p>
