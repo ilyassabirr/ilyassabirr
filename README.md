@@ -1,22 +1,42 @@
-Bonjour ! Je suis Ilyas Sabir 👋
+Bonjour, je suis Ilyas Sabir ! 👋
 
 <p align="left">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://votre-portfolio-link.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio"/>
+<a href="https://www.google.com/search?q=https://votre-portfolio-link.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-915EFF%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio"/>
 </a>
 <a href="mailto:ilyasff00@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
 </a>
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://www.linkedin.com/in/votre-linkedin-id" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/votre-linkedin-id" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 </p>
 
+👨‍💻 À propos de moi
+
+<p>
 Je suis un étudiant en dernière année d'ingénierie à l'EMSI, spécialisé en Informatique et Réseaux. Mes domaines d'expertise couvrent le développement web et mobile Full-Stack ainsi que l'intégration de solutions basées sur l'intelligence artificielle.
 
-👨‍💻 Je suis actuellement à la recherche d'un stage de fin d'études (PFE) de 4 à 6 mois, disponible à partir de février, pour contribuer à des projets technologiques ambitieux.
 
-🚀 Langages et Outils :
+
+
+
+
+
+🚀 Je suis actuellement à la recherche d'un stage de fin d'études (PFE) de 4 à 6 mois, disponible à partir de février, pour contribuer à des projets technologiques ambitieux.
+</p>
+
+🔭 Ce sur quoi je travaille actuellement
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/zhpZ6sI0bHhwu7s9sQ/giphy.gif" width="200" />
+</p>
+
+<p>
+Je perfectionne mes compétences en vision par ordinateur et en déploiement de modèles d'IA en me basant sur mon projet de détection d'acier. J'explore également les architectures microservices pour des applications web plus robustes.
+</p>
+
+🚀 Langages et Outils
 
 <p align="left">
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -38,7 +58,7 @@ Je suis un étudiant en dernière année d'ingénierie à l'EMSI, spécialisé e
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
-📊 Mes Statistiques GitHub :
+📊 Mes Statistiques GitHub
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DVOTRE_USERNAME_GITHUB%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Statistiques GitHub" />
